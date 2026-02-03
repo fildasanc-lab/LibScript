@@ -1,0 +1,5 @@
+/student-hub
+├── index.html       (Hlavní stránka)
+├── upload.html      (Stránka pro nahrávání s AI simulací)
+├── community.html   (Sdílení zážitků a poznatků)
+└── style.css        (Vlastní styly)
